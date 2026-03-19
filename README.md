@@ -126,7 +126,8 @@ Activity Main XML
 
 
 ## OUTPUT:
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/415fac06-cca9-404f-9572-25d990646a2e" />
+<img width="1237" height="661" alt="image" src="https://github.com/user-attachments/assets/91ffdb67-5d6d-4d92-861e-c0891ce80b3e" />
+
 
 
 ## RESULT:
